@@ -45,13 +45,13 @@ I build AI solutions for real business problems — combining AI agents, workflo
 ## 🛠️ What I work with
 
 **AI & Agents**<br>
-LLMs · Multi-Agent Systems · LangGraph · Prompt Engineering
+LLMs · AI Agents · Multi-Agent Systems · LangGraph · Prompt Engineering · Python
 
 **Build & Automation**<br>
-n8n · FastAPI · PostgreSQL · Docker · OpenRouter
+n8n · FastAPI · REST APIs · PostgreSQL · Docker · OpenRouter
 
 **Business & Strategy**<br>
-AI Solutions · GTM Strategy · Positioning · ICP · Product Marketing
+AI Solutions · Solution Design · GTM Strategy · Positioning · ICP · Product Marketing
 
 ## 🧠 How I work
 
