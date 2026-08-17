@@ -10,27 +10,37 @@ I build AI solutions for real business problems — combining AI agents, workflo
 
 - **[PositionPilot](https://github.com/aayushiagratha/positionpilot)** — a 15-agent, 4-pipeline system for AI-native GTM and positioning
 - **[job-search-score](https://github.com/aayushiagratha/job-search-score)** — a verified, sponsorship-aware job search agent for Claude Code
+- **[marketing-skills-hub](https://github.com/aayushiagratha/marketing-skills-hub)** — an evidence-based evaluation protocol for AI marketing skills
 
 ## 🤖 Featured projects
 
-### PositionPilot
+**Build AI systems → engineer agent architecture → evaluate whether the output is actually good.**
+
+### PositionPilot — Build
 **Multi-agent AI GTM strategy engine that turns structured product inputs into positioning, ICP, messaging, GTM and SEO strategies.**
 
 `n8n` · `OpenRouter` · `PostgreSQL` · `Docker`
 
 [Backend](https://github.com/aayushiagratha/positionpilot) · [Frontend](https://github.com/aayushiagratha/positionpilot-frontend)
 
-### langgraph-agents
+### job-search-score — Build
+**Claude Code agent that verifies job availability, sponsorship eligibility, and role competitiveness before generating tailored applications.**
+
+[Repo](https://github.com/aayushiagratha/job-search-score)
+
+### langgraph-agents — Engineer
 **LangGraph implementation of the Brand Voice Guardian pipeline, with parallel audit/rewrite agents, FastAPI orchestration, and OpenRouter + PostgreSQL persistence.**
 
 `LangGraph` · `FastAPI` · `OpenRouter` · `PostgreSQL`
 
 [Repo](https://github.com/aayushiagratha/langgraph-agents)
 
-### job-search-score
-**Claude Code agent that verifies job availability, sponsorship eligibility, and role competitiveness before generating tailored applications.**
+### marketing-skills-hub — Evaluate
+**An open evaluation protocol for AI marketing skills — fixed rubrics, quoted evidence, and reproducible scoring, instead of ranking by GitHub stars.**
 
-[Repo](https://github.com/aayushiagratha/job-search-score)
+`Evaluation` · `Rubric Design` · `Reproducibility`
+
+[Repo](https://github.com/aayushiagratha/marketing-skills-hub)
 
 ## 🛠️ What I work with
 
