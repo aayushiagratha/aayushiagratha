@@ -46,4 +46,6 @@ I'm interested in AI systems that hold up in real workflows, not AI for its own 
 
 ## 📫 Connect
 
-🌐 [Portfolio](https://www.aayushiagratha.com) · 💼 [LinkedIn](https://www.linkedin.com/in/aayushiagratha/) · 📧 [Email](mailto:aayushi.agratha@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=white)](https://www.aayushiagratha.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushiagratha/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushi.agratha@gmail.com)
