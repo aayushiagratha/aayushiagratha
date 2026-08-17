@@ -2,7 +2,7 @@
 
 ### AI Solutions · AI Agents · Product & GTM Strategy
 
-B2B product marketer who builds. I turn positioning, ICP, and messaging problems into multi-agent AI systems that generate them.
+I build AI solutions for real business problems — combining AI agents, workflow automation, and product/GTM strategy.
 
 ---
 
@@ -14,35 +14,40 @@ B2B product marketer who builds. I turn positioning, ICP, and messaging problems
 ## 🤖 Featured projects
 
 ### PositionPilot
-**Multi-agent AI GTM strategy engine.** n8n workflows for ICP creation, messaging frameworks, and GTM strategy generation.
+**Multi-agent AI GTM strategy engine that turns structured product inputs into positioning, ICP, messaging, GTM and SEO strategies.**
 
 `n8n` · `OpenRouter` · `PostgreSQL` · `Docker`
 
 [Backend](https://github.com/aayushiagratha/positionpilot) · [Frontend](https://github.com/aayushiagratha/positionpilot-frontend)
 
 ### langgraph-agents
-LangGraph port of the Brand Voice Guardian pipeline — FastAPI + `StateGraph`, parallel audit/rewrite agents over OpenRouter, Postgres-persisted.
+**LangGraph implementation of the Brand Voice Guardian pipeline, with parallel audit/rewrite agents, FastAPI orchestration, and OpenRouter + PostgreSQL persistence.**
 
 `LangGraph` · `FastAPI` · `OpenRouter` · `PostgreSQL`
 
 [Repo](https://github.com/aayushiagratha/langgraph-agents)
 
 ### job-search-score
-Agent skill for Claude Code: checks who's really hiring, whether they can legally sponsor you, and how contested the role is — then writes applications in your own CV format.
+**Claude Code agent that verifies job availability, sponsorship eligibility, and role competitiveness before generating tailored applications.**
 
 [Repo](https://github.com/aayushiagratha/job-search-score)
 
 ## 🛠️ What I work with
 
-**AI & agents** — LLMs · multi-agent systems · LangGraph · prompt engineering
-**Build** — n8n · FastAPI · PostgreSQL · Docker · OpenRouter
-**Business** — GTM strategy · positioning · ICP · product marketing
+**AI & Agents**<br>
+LLMs · Multi-Agent Systems · LangGraph · Prompt Engineering
+
+**Build & Automation**<br>
+n8n · FastAPI · PostgreSQL · Docker · OpenRouter
+
+**Business & Strategy**<br>
+AI Solutions · GTM Strategy · Positioning · ICP · Product Marketing
 
 ## 🧠 How I work
 
-Business problem → AI opportunity → solution design → prototype → human review → iteration.
+**Business problem → AI opportunity → solution design → prototype → human review → iteration**
 
-I'm interested in AI systems that hold up in real workflows, not AI for its own sake.
+I build AI systems for real workflows, with a focus on usefulness, human oversight, and practical business outcomes.
 
 ## 📫 Connect
 
